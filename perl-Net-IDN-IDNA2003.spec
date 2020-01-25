@@ -4,7 +4,6 @@
 #
 %define		pdir	Net
 %define		pnam	IDN-IDNA2003
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::IDN::IDNA2003 - Internationalizing Domain Names in Applications (2003) (RFC 3490)
 Summary(pl.UTF-8):	Net::IDN::IDNA2003 - międzynarodowe nazwy domen (IDN) w aplikacjach (2003) (RFC 3490)
 Name:		perl-Net-IDN-IDNA2003
